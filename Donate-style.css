@@ -26,23 +26,10 @@ body {
 }
 
 .btn{
-    margin-left: 761px;
-    width: 40%;
+    display: flex;
+    justify-content:center;
 }
 
-.PaymentButton.svelte-ekc7fv.svelte-ekc7fv{
-    width: 400px;
-
-}
-.PaymentButton-text.svelte-ekc7fv.svelte-ekc7fv{
-    font-size: 2rem;
-    padding-top: 20px;
-}
-
-.PaymentButton-securedBy.svelte-ekc7fv.svelte-ekc7fv{
-    font-size: 1rem;
-    padding-top: 5px
-}
 html{
     scroll-behavior: smooth;
 }
